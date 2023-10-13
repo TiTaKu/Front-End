@@ -1,2 +1,2 @@
 # Front-End
-titaku web front-end development repositoryde
+titaku web front-end development repository
